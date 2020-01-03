@@ -1,0 +1,16 @@
+{
+  "name": "brinquedaria",
+  "version": "1.0.0",
+  "description": "Servidor para uma brinquedaria",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Douglas Sousa",
+  "license": "ISC",
+  "dependencies": {
+    "await-to-js": "^2.1.1",
+    "mysql": "^2.17.1"
+  }
+}
