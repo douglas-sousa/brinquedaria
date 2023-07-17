@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "await-to-js": "^2.1.1",
-    "mysql": "^2.17.1"
+    "mysql": "^2.18.0"
   }
 }
